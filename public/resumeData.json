@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Alexandre Bulcão",
+    "occupation": "Fullstack Developer",
+    "description": "I work, play and breathe REACT",
+    "image": "profilepic.jpg",
+    "bio": "I'm from Brazil (BR), I'm 40 years old, I'm not old to work as a developer (old is the world, lol), living and working as a Web Developer in Porto, Portugal (PT). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), interested in fullstack technology. I have studied a lot about NodeJS, React, ReactJS, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer..",
+    "contactmessage": "Contact",
+    "email": "ambulcao@gmail.com",
+    "phone": "+351 933870033",
+    "address": {
+      "street": "Rua Ferreira dos Santos",
+      "city": "Porto",
+      "state": "Porto-PT",
+      "zip": "4300-199"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/alexandre.bulcao.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alexandre-bulcao",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abulcao/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ambulcao",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "UNIP - Universidade Paulista",
+        "degree": "Bachelor's Degree, System Analysis",
+        "graduated": "July 2008",
+        "description": "Graduated in Manaus-AM - BR"
+      }
+    ],
+    "work": [
+      {
+        "company": "Aluclass",
+        "title": "Aluclas LTDA",
+        "years": "May 2020 - Present",
+        "description": "I work with the backoffice of the e-commerce website, updating image information, prices and developing small sections of javascript programs to improve the website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "15%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "40%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Eurofin",
+        "category": "Current project (in development) Facilitated Virtual Bank.",
+        "image": "eurofin.jpg",
+        "url": "https://eurofinan.vercel.app/"
+      },
+      {
+        "title": "Happy Orphanage (React JS)",
+        "category": "Locator and registration of orphanages in the region.",
+        "image": "happy.jpg",
+        "url": "https://orphanage-happy.vercel.app/"
+      },
+      {
+        "title": "Pizza Delivery (React JS)",
+        "category": "Project created for pizzeria app.",
+        "image": "pizza.jpg",
+        "url": "https://pizza-delivery.vercel.app/"
+      },
+      {
+        "title": "Covid Tracker (React JS)",
+        "category": "Project created together with PAPA REACT team",
+        "image": "covid.jpg",
+        "url": "https://covid-tracker-neon-mu.vercel.app/"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "Project created together with PAPA REACT team",
+        "image": "netflixclone.jpg",
+        "url": "https://net-movies.vercel.app/"
+      },
+      {
+        "title": "BudTech Budget (React JS)",
+        "category": "Project created for a client.",
+        "image": "budget.jpg",
+        "url": "https://budget-react-seven.vercel.app/"
+      },
+      {
+        "title": "TODO List (React JS)",
+        "category": "Project created for personal use.",
+        "image": "todolist.jpg",
+        "url": "https://todo-list-psi.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Great professional, competent and resilient.... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Great power of concentration, competent, helps the team with their knowledge.",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
