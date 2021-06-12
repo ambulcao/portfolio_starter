@@ -4,12 +4,15 @@ const Testimonials = ({ data }) => {
   if (data) {
     var testimonials = data.testimonials.map(function (testimonials) {
       return (
+        <>
+        <p>Last Company Worked</p>
         <li key={testimonials.user}>
           <blockquote>
             <p>{testimonials.text}</p>
             <cite>{testimonials.user}</cite>
           </blockquote>
         </li>
+        </>
       );
     });
   }

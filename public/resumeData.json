@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Alexandre Bulcão",
-    "occupation": "Fullstack Developer",
-    "description": "I work, play and breathe REACT",
+    "occupation": "I'm FrontEnd Developer",
+    "description": "I'm passionate about programming, I like to play video games and my favorite sport is soccer and surfing.",
     "image": "profilepic.jpg",
-    "bio": "I'm from Brazil (BR), I'm 40 years old, I'm not old to work as a developer (old is the world, lol), living and working as a Web Developer in Porto, Portugal (PT). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), interested in fullstack technology. I have studied a lot about NodeJS, React, ReactJS, React-Native, AngularJS and VUE, taking advantage of everything that Javascript has to offer..",
+    "bio": "I'm from Brazil (BR), I live and work as a Web Developer in Porto, Portugal (PT). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), passionate about technology. I've been studying a lot about ReactJS, React-Native, AngularJS and VUE, taking advantage of everything Javascript has to offer..",
     "contactmessage": "Contact",
     "email": "ambulcao@gmail.com",
     "phone": "+351 933870033",
     "address": {
-      "street": "Rua Ferreira dos Santos",
-      "city": "Porto",
+      "street": "Av. da República",
+      "city": "Vila Nova de Gaia",
       "state": "Porto-PT",
-      "zip": "4300-199"
+      "zip": "4430-198"
     },
     "website": "",
     "resumedownload": "",
@@ -34,7 +34,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/abulcao/",
+        "url": "https://www.instagram.com/alexbullcao/",
         "className": "fa fa-instagram"
       },
       {
@@ -45,7 +45,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "",
     "education": [
       {
         "school": "UNIP - Universidade Paulista",
@@ -57,7 +57,7 @@
     "work": [
       {
         "company": "Aluclass",
-        "title": "Aluclas LTDA",
+        "title": "Aluclas",
         "years": "May 2020 - Present",
         "description": "I work with the backoffice of the e-commerce website, updating image information, prices and developing small sections of javascript programs to improve the website."
       }
@@ -65,6 +65,10 @@
     "skills": [
       {
         "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "React Native",
         "level": "30%"
       },
       {
@@ -72,16 +76,48 @@
         "level": "15%"
       },
       {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "40%"
+      },
+      {
+        "name": "PHP",
+        "level": "15%"
+      },
+      {
+        "name": "AngularJs",
+        "level": "30%"
+      },
+      {
+        "name": "VUE",
+        "level": "15%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "40%"
+      },
+      {
+        "name": "Firebase",
+        "level": "30%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "30%"
+      },
+      {
+        "name": "MySql",
+        "level": "70%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "80%"
+      },
+      {
         "name": "Git",
         "level": "40%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "40%"
-      },
-      {
-        "name": "Web Development",
-        "level": "50%"
       }
     ]
   },
@@ -102,8 +138,8 @@
       {
         "title": "Pizza Delivery (React JS)",
         "category": "Project created for pizzeria app.",
-        "image": "pizza.jpg",
-        "url": "https://pizza-delivery.vercel.app/"
+        "image": "Pizza.jpg",
+        "url": "https://react-pizza-web.herokuapp.com/"
       },
       {
         "title": "Covid Tracker (React JS)",
@@ -140,12 +176,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Great professional, competent and resilient.... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "AMB Tech Solutions (Pt) / Web Developer",
+        "user": "Janeiro 2019 ~ Janeiro 2020"
       },
       {
-        "text": "Great power of concentration, competent, helps the team with their knowledge.",
-        "user": "Adam Curtis"
+        "text": "Grupo Bringel (Br) / Coordenador de Tecnologia da Informação",
+        "user": "Setembro 2013 ~ Novembro 2018"
       }
     ]
   }
