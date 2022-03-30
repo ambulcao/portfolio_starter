@@ -7,7 +7,7 @@
     "bio": "I'm from Brazil (BR), I live and work as a Web Developer in Porto, Portugal (PT). Graduated from Unip - Universidade Paulista in (Systems Analysis and Development), passionate about technology. I've been studying a lot about ReactJS, React-Native, AngularJS and VUE, taking advantage of everything Javascript has to offer..",
     "contactmessage": "Contact",
     "email": "ambulcao@gmail.com",
-    "phone": "+351 933870033",
+    "phone": "+351 933811725",
     "address": {
       "street": "Av. da República",
       "city": "Vila Nova de Gaia",
@@ -57,8 +57,8 @@
     "work": [
       {
         "company": "Aluclass",
-        "title": "Aluclas",
-        "years": "May 2020 - Present",
+        "title": "Aluclass",
+        "years": "Feb 2020 - Present",
         "description": "I work with the backoffice of the e-commerce website, updating image information, prices and developing small sections of javascript programs to improve the website."
       }
     ],

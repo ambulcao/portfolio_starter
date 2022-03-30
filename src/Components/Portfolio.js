@@ -1,8 +1,11 @@
 import React from "react";
+import ScrollAnimation from "react-animate-on-scroll";
 
 const Portfolio = ({ data }) => {
   if (data) {
+    //console.log(data);
     var projects = data.projects.map(function (projects) {
+      console.log(data.projects);
       var projectImage = "images/portfolio/" + projects.image;
       return (
         <div key={projects.title} className="columns portfolio-item">
@@ -26,20 +29,22 @@ const Portfolio = ({ data }) => {
   }
 
   return (
-    <section id="portfolio">
-      <div className="row">
-        <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
+    <ScrollAnimation animateIn="flipInX">
+      <section id="portfolio">
+        <div className="row">
+          <div className="twelve columns collapsed">
+            <h1>Check Out Some of My Works.</h1>
 
-          <div
-            id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
-          >
-            {projects}
+            <div
+              id="portfolio-wrapper"
+              className="bgrid-quarters s-bgrid-thirds cf"
+            >
+              {projects}
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </ScrollAnimation>
   );
 };
 
